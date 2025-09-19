@@ -22,6 +22,6 @@ A circuit diagram illustrating the component connections is provided in the `Str
 
 ### Contributors
 
-* Rohit E
-* Podala Keerthana
-* Viswasurya P
+* [Rohit E](https://github.com/rohit-373)
+* [Podala Keerthana](https://github.com/Keerthana-0105)
+* [Viswasurya P](https://github.com/pvs333)
