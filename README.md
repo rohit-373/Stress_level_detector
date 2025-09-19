@@ -22,5 +22,6 @@ A circuit diagram illustrating the component connections is provided in the `Str
 
 ### Contributors
 
+* Rohit E
 * Podala Keerthana
 * Viswasurya P
